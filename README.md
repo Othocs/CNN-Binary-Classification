@@ -1,4 +1,4 @@
-# Image Classification Project Overview
+# 🌿 Organic Vs ♻️ Recyclable Waste CNN Classifier
 
 This project utilizes a convolutional neural network (CNN) to classify images into two distinct categories based on their content:
 
