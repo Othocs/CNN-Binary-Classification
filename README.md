@@ -8,3 +8,12 @@ This project utilizes a convolutional neural network (CNN) to classify images in
 
 The goal of the project is to assist in waste management by automatically sorting waste items into appropriate recycling or composting streams using image recognition technology.
 
+# Dataset 
+You can find the **dataset** used for this project on Kaggle: [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data).
+
+All you need to do is take the zip data set, place in the same directory as the jupyter notebook and run everycell (the unzipping is taken care of)
+
+
+
+
+
